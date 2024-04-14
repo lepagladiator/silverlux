@@ -247,7 +247,7 @@ body {
 }
 
 a {
-    color: red;
+    color: #3273dc;
     cursor: pointer;
     text-decoration: none
 }
@@ -11786,7 +11786,7 @@ footer.footer {
 }
 
 .blogPostContentsContainer h1,.blogPostContentsContainer h2,.blogPostContentsContainer h3,.blogPostContentsContainer h4,.blogPostContentsContainer h5,.blogPostContentsContainer h6,.blogPostContentsContainer li,.blogPostContentsContainer ol,.blogPostContentsContainer p,.blogPostContentsContainer span,.blogPostContentsContainer ul {
-    color: #000!important;
+    color: #f51a1a !important;
     font-family: Poppins!important;
     position: relative;
     width: -webkit-fit-content;
